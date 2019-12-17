@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/Expressions/Convert from infix expression" />
+  </component>
+</application>
