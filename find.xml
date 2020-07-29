@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,7 @@
     <mask>*controller.java</mask>
     <mask>*controller.scala</mask>
     <mask>*.sql</mask>
-    <mask>*.scala</mask>
     <mask>*.java</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
