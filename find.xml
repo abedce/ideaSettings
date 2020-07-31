@@ -12,12 +12,12 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.sqlmap</mask>
     <mask>*.routes</mask>
     <mask>*controller.java</mask>
     <mask>*controller.scala</mask>
     <mask>*.sql</mask>
     <mask>*.scala</mask>
     <mask>*.java</mask>
+    <mask>*.sqlmap</mask>
   </component>
 </application>
