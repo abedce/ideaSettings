@@ -4,21 +4,18 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="fdsg" type="PLAIN_TEXT" />
-      <mapping pattern="33-moditfyUpdateTime.sql" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="sqlmap" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="33-moditfyUpdateTime.sql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="fdsg" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
